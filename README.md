@@ -1,0 +1,2 @@
+# postgraduate-D36
+Today is the national CET-4 and CET-6. I went to bed a little late yesterday. I didn't feel like sleeping at all this morning. Maybe I was too tired to watch the data structure class. Maybe the teacher was too hypnotic. I participated in the program design competition yesterday. The topic is moderate. I think I can make about six questions, But in the end, I only made three. Yesterday, I seemed to see the legendary god level task written in C + +, but we never learned C + +, and I don't know the difficulty of C + +, I made it in C.
